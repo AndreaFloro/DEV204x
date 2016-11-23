@@ -1,0 +1,6 @@
+D:\Source\Git\DEV204x\DEV204x\Module_4\bin\Debug\Module_4.exe.config
+D:\Source\Git\DEV204x\DEV204x\Module_4\bin\Debug\Module_4.exe
+D:\Source\Git\DEV204x\DEV204x\Module_4\bin\Debug\Module_4.pdb
+D:\Source\Git\DEV204x\DEV204x\Module_4\obj\Debug\Module_4.csprojResolveAssemblyReference.cache
+D:\Source\Git\DEV204x\DEV204x\Module_4\obj\Debug\Module_4.exe
+D:\Source\Git\DEV204x\DEV204x\Module_4\obj\Debug\Module_4.pdb
